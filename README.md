@@ -1,3 +1,5 @@
+# RoboFriends app
+
 ## Github pages link:
 https://jolantakazmierczak.github.io/react-course/
 
